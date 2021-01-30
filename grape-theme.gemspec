@@ -3,8 +3,8 @@
 Gem::Specification.new do |spec|
   spec.name          = "grape-theme"
   spec.version       = "0.1.0"
-  spec.authors       = ["naye0ng"]
-  spec.email         = ["nayeong_e@naver.com"]
+  spec.authors       = ["hyebun"]
+  spec.email         = ["hyebun96@naver.com"]
 
   spec.summary       = "A free and open-source Jekyll theme. Great for blogs and easy to customize."
   spec.homepage      = "https://naye0ng.github.io/"
