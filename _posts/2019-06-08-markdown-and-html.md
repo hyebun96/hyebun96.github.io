@@ -7,10 +7,7 @@ author: Nayeong Kim
 comments : True
 ---
 
-This post show result from awesome Markdown techniques like jekyll. 
-`Jekyll` supports to transform your plain text into static websites and blogs. 
-
-you can easy to change style in `_utility.html` and a sample of the formatting follows.
+Github블로그를 만들어 봅시다.
 
 <br>
 
