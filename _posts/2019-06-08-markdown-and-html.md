@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Sample Post with Markdown
+title: Sample Post with Markdo
 subtitle : How markdown is displayed as html
 tags: [Sample Post, Demo]
 author: Nayeong Kim
 comments : True
 ---
 
-This post show result from awesome Markdown techniques like jekyll. 
+This post show result from awesome Markdo techniques like jekyll. 
 `Jekyll` supports to transform your plain text into static websites and blogs. 
 
 you can easy to change style in `_utility.html` and a sample of the formatting follows.
