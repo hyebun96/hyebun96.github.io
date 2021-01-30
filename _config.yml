@@ -24,7 +24,7 @@ theme_settings :
   icons :
     email:  hyebun96@naver.com # Full email address, e.g. "sample@google.com"
     linkedin:  # Full URL 
-    github: https://hyebun96.github.io
+    github: hyebun96
     gitlab: 
     bitbucket: 
     google_plus:
