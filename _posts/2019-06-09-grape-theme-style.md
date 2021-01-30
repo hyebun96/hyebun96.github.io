@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Sample Post with Grape-Theme style
-subtitle : How markdown is displayed as html
-tags: [Sample Post, Welcome to the Grape Theme!]
-author: Nayeong Kim
+title: Github블로그 개설하기
+subtitle : Github블로그를 통해 개발공부 기록
+tags: [Blog]
+author: Hyebun
 comments : False
 ---
 
