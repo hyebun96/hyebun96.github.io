@@ -13,8 +13,8 @@ theme_settings :
     username : Hyebun Jeong
     description : 프론트엔트, 백엔드 모두 개발하고있는 주니어개발자 정혜분입니다.
     experience :
-      - start : 2017-05-03
-        end : 2018-05-06
+      - start : 
+        end : 
         experience : company name, title
     skills : 
       - skill : HTML5 & CSS
