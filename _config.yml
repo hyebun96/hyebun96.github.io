@@ -1,11 +1,11 @@
 # SITE CONFIGURATION
 baseurl: ""
-url: "https://naye0ng.github.io"
+url: "https://hyebun96.github.io"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Nayeong's Devlog
+  title: hyebun's Devlog
   avatar: assets/img/avatar.png
   favicon: assets/img/logo.png  #favicon.ico
   gravatar: # Email MD5 hash
@@ -21,14 +21,14 @@ theme_settings:
 
   # Icons
   rss: false
-  email_address: "naye0ng.dev@gmail.com" # Full email address, e.g. "sam@example.com"
+  email_address: "hyebun96@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "naye0ng"
+  github: "hyebun96"
   google_plus:
   instagram:
   linkedin:  # Full URL
