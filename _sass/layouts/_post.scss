@@ -1,3 +1,6 @@
+#preview{
+    display: none;
+}
 #post{
     @extend %page-padding;
     .post-header{

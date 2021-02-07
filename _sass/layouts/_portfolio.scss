@@ -11,9 +11,11 @@
         display: inline-block;
         width: 180px;
         height: 180px;
-        border-radius: 15px;
+        // border-radius: 15px;
+        border-radius: 50%;
         img {
           width: 100%;
+          background-color: #fff715;
         }
       }
     }
@@ -88,7 +90,8 @@
             color: rgba(0, 0, 0, 0.5);
           }
           .description {
-            font-size: 1rem;
+            font-size: 0.9rem;
+            line-height: 1.2rem;
           }
         }
         li.meta::before {
