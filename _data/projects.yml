@@ -1,19 +1,32 @@
 - project :
-    print : True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal : False # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url : https://github.com/hyebun96/traveler # Full URL
-    image : "traveler.gif" # path: assets/project/
-    date : 2020.05.18 - 2020.05.25
-    title : Traveler_Blog
-    summary :  여행블로그
-    description : 각지의 여행 장소를 추천받고 커뮤니티에서 여행 기록을 서로 공유할 수있는 여행 가이드 홈페이지
+    print : True  
+    modal : True
+    url : 
+    image : home.png
+    date : 2019.06.09 - 개발중
+    title : Grape-Theme
+    summary : 프로필 페이지를 지원하는 반응형 지킬 테마   
+    description : 올해 초, Jekyll의 기본 테마와 Github page를 이용해 블로그를 처음 시작했었다. 
+        기본 테마는 블로그에 글을 포스팅하는 데는 문제가 없었지만, 태그나 카테고리와 같은 기능은 지원하지 않았기에 직접 원하는 기능들을 추가할 수밖에 없었다.
+        <br/>블로그에 원하는 페이지를 붙이는 과정에서 Liquid Language와 SCSS의 사용법을 자연스럽게 익힐 수 있었고,
+        내가 원했던 모든 기능을 지원하는 Jekyll Theme를 만들어 다른 사람들과 나누고 싶어졌다.
     contents :
-        - title : 1. 여행지소개
+        - title : 1. 블로그 첫 화면 구성
           image : home.png
           description : <li>Responsive Layout</li>
             <li>User Profile</li> 
             <li>Tags</li> 
             <li>Projects</li> 
             <li>Pagination</li>
-       
+        - title : 2. 태그 페이지
+          image : tags.png
+          description : <li>Responsive Layout</li> 
+            <li>Tags</li> 
+        - title : 3. 남은 개발 과제
+          image :
+          description : <li>project 부분 디자인 변경</li>
+            <li>favicon.ico, search 기능</li>
+            <li>OG Tag 추가</li>
+            <li>profile 이미지 효과</li>
+            <li>gem 배포</li>
 
